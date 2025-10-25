@@ -19,25 +19,28 @@ use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\UserController;
 // Main Page Route
 
-Route::middleware('guest')->group(function () {
-  Route::get('/login', [LoginBasic::class, 'index'])->name('login');
-  Route::get('/register', [RegisterBasic::class, 'index'])->name('register');
-  // authentication
-  Route::get('/auth/login-cover', [LoginCover::class, 'index'])->name('auth-login-cover');
-  Route::get('/auth/register-cover', [RegisterCover::class, 'index'])->name('auth-register-cover');
-  Route::get('/auth/register-multisteps', [RegisterMultiSteps::class, 'index'])->name('auth-register-multisteps');
-  Route::get('/auth/verify-email-basic', [VerifyEmailBasic::class, 'index'])->name('auth-verify-email-basic');
-  Route::get('/auth/verify-email-cover', [VerifyEmailCover::class, 'index'])->name('auth-verify-email-cover');
-  Route::get('/auth/reset-password-basic', [ResetPasswordBasic::class, 'index'])->name('auth-reset-password-basic');
-  Route::get('/auth/reset-password-cover', [ResetPasswordCover::class, 'index'])->name('auth-reset-password-cover');
-  Route::get('/auth/forgot-password-basic', [ForgotPasswordBasic::class, 'index'])->name('auth-reset-password-basic');
-  Route::get('/auth/forgot-password-cover', [ForgotPasswordCover::class, 'index'])->name('auth-forgot-password-cover');
-  Route::get('/auth/two-steps-basic', [TwoStepsBasic::class, 'index'])->name('auth-two-steps-basic');
-  Route::get('/auth/two-steps-cover', [TwoStepsCover::class, 'index'])->name('auth-two-steps-cover');
-});
-Route::middleware(['auth', 'force.password.change'])->group(function () {
-  Route::get('/', [DashboardController::class, 'index'])->name('dashboard.index');
-  Route::resource('user', UserController::class);
-  require __DIR__ . '/fastcrud_web_generator.php';
-});
-require __DIR__ . '/auth.php';
+Route::get('/', [LoginBasic::class, 'index'])->name('index');
+  
+
+// Route::middleware('guest')->group(function () {
+//   Route::get('/login', [LoginBasic::class, 'index'])->name('login');
+//   Route::get('/register', [RegisterBasic::class, 'index'])->name('register');
+//   // authentication
+//   Route::get('/auth/login-cover', [LoginCover::class, 'index'])->name('auth-login-cover');
+//   Route::get('/auth/register-cover', [RegisterCover::class, 'index'])->name('auth-register-cover');
+//   Route::get('/auth/register-multisteps', [RegisterMultiSteps::class, 'index'])->name('auth-register-multisteps');
+//   Route::get('/auth/verify-email-basic', [VerifyEmailBasic::class, 'index'])->name('auth-verify-email-basic');
+//   Route::get('/auth/verify-email-cover', [VerifyEmailCover::class, 'index'])->name('auth-verify-email-cover');
+//   Route::get('/auth/reset-password-basic', [ResetPasswordBasic::class, 'index'])->name('auth-reset-password-basic');
+//   Route::get('/auth/reset-password-cover', [ResetPasswordCover::class, 'index'])->name('auth-reset-password-cover');
+//   Route::get('/auth/forgot-password-basic', [ForgotPasswordBasic::class, 'index'])->name('auth-reset-password-basic');
+//   Route::get('/auth/forgot-password-cover', [ForgotPasswordCover::class, 'index'])->name('auth-forgot-password-cover');
+//   Route::get('/auth/two-steps-basic', [TwoStepsBasic::class, 'index'])->name('auth-two-steps-basic');
+//   Route::get('/auth/two-steps-cover', [TwoStepsCover::class, 'index'])->name('auth-two-steps-cover');
+// });
+// Route::middleware(['auth', 'force.password.change'])->group(function () {
+//   Route::get('/', [DashboardController::class, 'index'])->name('dashboard.index');
+//   Route::resource('user', UserController::class);
+//   require __DIR__ . '/fastcrud_web_generator.php';
+// });
+// require __DIR__ . '/auth.php';

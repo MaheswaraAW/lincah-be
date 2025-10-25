@@ -1,0 +1,46 @@
+{
+  "topics": [
+    {
+      "id": "t1",
+      "title": "Deteksi Dini Wabah Demam Berdarah",
+      "theme": "Kesehatan",
+      "region": "Semarang Utara",
+      "summary": "Pemantauan kasus DB secara real-time menggunakan aplikasi LINCAH, melibatkan RT/RW dan puskesmas setempat.",
+      "lastUpdated": "2025-09-20",
+      "image": "https://cdn.rri.co.id/berita/21/images/1706933704543-4/kpbaduu45cxhi0d.jpeg",
+      "notes": [
+        {
+          "id": "n1",
+          "author": "Puskesmas Utara",
+          "text": "Data larva telah diinput, area rawan diupdate ke dashboard LINCAH.",
+          "date": "2025-09-20"
+        }
+      ],
+      "locked": false
+    },
+    {
+      "id": "t2",
+      "title": "Program Imunisasi Balita Cepat",
+      "theme": "Kesehatan Anak",
+      "region": "Semarang Tengah",
+      "summary": "Peningkatan cakupan imunisasi dengan notifikasi digital bagi kader dan orang tua melalui LINCAH.",
+      "lastUpdated": "2025-09-18",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/12/14/vaksinasi-anak-di-semarang_11.jpeg?w=700&q=90",
+      "notes": [],
+      "locked": false
+    },
+    {
+      "id": "t3",
+      "title": "Kampanye Lingkungan Sehat",
+      "theme": "Promosi Kesehatan",
+      "region": "Semarang Selatan",
+      "summary": "Melibatkan masyarakat untuk menjaga kebersihan lingkungan, mendukung pencegahan penyakit berbasis data LINCAH.",
+      "lastUpdated": "2025-09-10",
+      "image": "https://mijen.semarangkota.go.id/wp-content/uploads/2023/05/Kel-Mijen-Minimalist-Instagram-Post-1-2-1024x1024.png",
+      "notes": [],
+      "locked": true
+    }
+  ],
+  "themes": ["Semua", "Kesehatan", "Kesehatan Anak", "Promosi Kesehatan", "Edukasi Masyarakat"],
+  "regions": ["Semua", "Semarang Utara", "Semarang Tengah", "Semarang Selatan"]
+}

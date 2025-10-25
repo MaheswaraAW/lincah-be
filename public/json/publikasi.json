@@ -1,0 +1,56 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "type": "image",
+      "title": "Pameran Produk UMKM",
+      "thumbnail": "/assets/images/gallery/gallery-6.jpg",
+      "src": "/assets/images/gallery/gallery-6.jpg",
+      "alt": "Produk UMKM Pameran"
+    },
+    {
+      "id": 2,
+      "type": "image",
+      "title": "Workshop Kerajinan",
+      "thumbnail": "/assets/images/gallery/gallery-7.jpg",
+      "src": "/assets/images/gallery/gallery-7.jpg",
+      "alt": "Peserta workshop membuat kerajinan"
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "title": "Liputan Media TV",
+      "thumbnail": "/assets/images/gallery/video-thumb-1.jpg",
+      "src": "https://www.youtube.com/embed/abcd1234",
+      "alt": "Liputan acara di TV Nasional"
+    },
+    {
+      "id": 4,
+      "type": "image",
+      "title": "Dekranasda Expo 2025",
+      "thumbnail": "/assets/images/gallery/gallery-8.jpg",
+      "src": "/assets/images/gallery/gallery-8.jpg",
+      "alt": "Booth Expo Dekranasda"
+    },
+    {
+      "id": 5,
+      "type": "video",
+      "title": "Video Dokumentasi Pameran",
+      "thumbnail": "/assets/images/gallery/video-thumb-2.jpg",
+      "src": "https://player.vimeo.com/video/987654321",
+      "alt": "Video dokumentasi kegiatan pameran"
+    },
+    {
+      "id": 6,
+      "type": "image",
+      "title": "Produk Anyaman",
+      "thumbnail": "/assets/images/gallery/gallery-9.jpg",
+      "src": "/assets/images/gallery/gallery-9.jpg",
+      "alt": "Produk anyaman dari pengrajin lokal"
+    }
+  ],
+  "pagination": {
+    "currentPage": 1,
+    "totalPages": 3
+  }
+}

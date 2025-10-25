@@ -1,0 +1,12 @@
+[
+  { "id": 1, "kecamatan": "Candisari", "kelurahan": "Jatingaleh", "tahun": 2020, "jenisRisiko": "DBD", "kasus": 45 },
+  { "id": 2, "kecamatan": "Candisari", "kelurahan": "Jatingaleh", "tahun": 2021, "jenisRisiko": "DBD", "kasus": 32 },
+  { "id": 3, "kecamatan": "Candisari", "kelurahan": "Jatingaleh", "tahun": 2022, "jenisRisiko": "DBD", "kasus": 27 },
+  { "id": 4, "kecamatan": "Gajahmungkur", "kelurahan": "Karangrejo", "tahun": 2020, "jenisRisiko": "DBD", "kasus": 56 },
+  { "id": 5, "kecamatan": "Gajahmungkur", "kelurahan": "Karangrejo", "tahun": 2021, "jenisRisiko": "DBD", "kasus": 40 },
+  { "id": 6, "kecamatan": "Gajahmungkur", "kelurahan": "Karangrejo", "tahun": 2022, "jenisRisiko": "DBD", "kasus": 38 },
+  { "id": 7, "kecamatan": "Tembalang", "kelurahan": "Meteseh", "tahun": 2020, "jenisRisiko": "DBD", "kasus": 70 },
+  { "id": 8, "kecamatan": "Tembalang", "kelurahan": "Meteseh", "tahun": 2021, "jenisRisiko": "DBD", "kasus": 65 },
+  { "id": 9, "kecamatan": "Tembalang", "kelurahan": "Meteseh", "tahun": 2022, "jenisRisiko": "DBD", "kasus": 50 },
+  { "id": 10, "kecamatan": "Banyumanik", "kelurahan": "Pedalangan", "tahun": 2022, "jenisRisiko": "DBD", "kasus": 42 }
+]
