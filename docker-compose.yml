@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+    lincah-app:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        container_name: lincah
+
+        restart: always
+        working_dir: /var/www/html
+        volumes:
+            - /var/project/lincah:/var/www/html
+            - /var/project/lincah/storage:/var/www/html/storage
+            - backup_data:/var/www/html/backup
+        ports:
+            - "7018:80"
+        networks:
+            - lincah_network
+
+networks:
+    lincah_network:
+        external: true
+
+volumes:
+    backup_data:
+
+

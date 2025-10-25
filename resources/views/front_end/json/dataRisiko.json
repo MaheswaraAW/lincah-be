@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Panggung Lor",
+    "tahun": 2024,
+    "jenisRisiko": "DBD",
+    "kasus": 45,
+    "koordinat": [-6.9515, 110.4287],
+    "zona": "Merah"
+  },
+  {
+    "id": 2,
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Kembangarum",
+    "tahun": 2024,
+    "jenisRisiko": "DBD",
+    "kasus": 20,
+    "koordinat": [-6.9905, 110.3842],
+    "zona": "Kuning"
+  },
+  {
+    "id": 3,
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Peterongan",
+    "tahun": 2024,
+    "jenisRisiko": "DBD",
+    "kasus": 10,
+    "koordinat": [-7.0059, 110.4249],
+    "zona": "Hijau"
+  },
+  {
+    "id": 4,
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Miroto",
+    "tahun": 2024,
+    "jenisRisiko": "DBD",
+    "kasus": 30,
+    "koordinat": [-6.9875, 110.4145],
+    "zona": "Kuning"
+  },
+  {
+    "id": 5,
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Karangturi",
+    "tahun": 2024,
+    "jenisRisiko": "DBD",
+    "kasus": 55,
+    "koordinat": [-6.9812, 110.4441],
+    "zona": "Merah"
+  },
+  {
+    "id": 6,
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Tambakharjo",
+    "tahun": 2023,
+    "jenisRisiko": "DBD",
+    "kasus": 25,
+    "koordinat": [-6.9669, 110.3751],
+    "zona": "Kuning"
+  },
+  {
+    "id": 7,
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Wonodri",
+    "tahun": 2023,
+    "jenisRisiko": "DBD",
+    "kasus": 15,
+    "koordinat": [-7.0165, 110.4270],
+    "zona": "Hijau"
+  },
+  {
+    "id": 8,
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Plombokan",
+    "tahun": 2023,
+    "jenisRisiko": "DBD",
+    "kasus": 60,
+    "koordinat": [-6.9385, 110.4275],
+    "zona": "Merah"
+  },
+  {
+    "id": 9,
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Karangtempel",
+    "tahun": 2023,
+    "jenisRisiko": "DBD",
+    "kasus": 18,
+    "koordinat": [-6.9933, 110.4230],
+    "zona": "Kuning"
+  },
+  {
+    "id": 10,
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Bugangan",
+    "tahun": 2023,
+    "jenisRisiko": "DBD",
+    "kasus": 8,
+    "koordinat": [-6.9855, 110.4505],
+    "zona": "Hijau"
+  }
+]

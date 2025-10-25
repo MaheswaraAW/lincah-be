@@ -1,0 +1,12 @@
+[
+  { "id": 1, "kecamatan": "Candisari", "kelurahan": "Jatingaleh", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 30, "zona": "Merah", "koordinat": [-6.985, 110.421] },
+  { "id": 2, "kecamatan": "Candisari", "kelurahan": "Tegalsari", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 18, "zona": "Kuning", "koordinat": [-6.982, 110.425] },
+  { "id": 3, "kecamatan": "Candisari", "kelurahan": "Karanganyar", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 10, "zona": "Hijau", "koordinat": [-6.990, 110.423] },
+  { "id": 4, "kecamatan": "Gajahmungkur", "kelurahan": "Karangrejo", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 40, "zona": "Merah", "koordinat": [-6.995, 110.410] },
+  { "id": 5, "kecamatan": "Gajahmungkur", "kelurahan": "Bendungan", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 22, "zona": "Kuning", "koordinat": [-6.992, 110.415] },
+  { "id": 6, "kecamatan": "Tembalang", "kelurahan": "Meteseh", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 55, "zona": "Merah", "koordinat": [-7.036, 110.456] },
+  { "id": 7, "kecamatan": "Tembalang", "kelurahan": "Bulusan", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 28, "zona": "Kuning", "koordinat": [-7.030, 110.450] },
+  { "id": 8, "kecamatan": "Banyumanik", "kelurahan": "Pedalangan", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 36, "zona": "Merah", "koordinat": [-7.048, 110.430] },
+  { "id": 9, "kecamatan": "Banyumanik", "kelurahan": "Srondol", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 20, "zona": "Kuning", "koordinat": [-7.042, 110.425] },
+  { "id": 10, "kecamatan": "Banyumanik", "kelurahan": "Padangsari", "tahun": 2024, "jenisRisiko": "DBD", "kasus": 8, "zona": "Hijau", "koordinat": [-7.050, 110.435] }
+]

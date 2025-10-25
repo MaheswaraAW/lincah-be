@@ -1,0 +1,3011 @@
+[
+  {
+    "id": "KD150",
+    "kecamatan": "Mijen",
+    "kelurahan": "Cangkiran",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 11,
+    "keterpaparan": 2,
+    "kerentanan": 5,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0927513,
+      110.3092049
+    ]
+  },
+  {
+    "id": "KD158",
+    "kecamatan": "Mijen",
+    "kelurahan": "Bubakan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 4,
+    "keterpaparan": 1,
+    "kerentanan": 5,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0926295,
+      110.3204101
+    ]
+  },
+  {
+    "id": "KD157",
+    "kecamatan": "Mijen",
+    "kelurahan": "Karangmalang",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 5,
+    "keterpaparan": 2,
+    "kerentanan": 5,
+    "potensial_dampak": 3,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.097285,
+      110.3327615
+    ]
+  },
+  {
+    "id": "KD159",
+    "kecamatan": "Mijen",
+    "kelurahan": "Polaman",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 2,
+    "keterpaparan": 1,
+    "kerentanan": 5,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0925573,
+      110.3331643
+    ]
+  },
+  {
+    "id": "KD160",
+    "kecamatan": "Mijen",
+    "kelurahan": "Purwosari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 9,
+    "keterpaparan": 2,
+    "kerentanan": 6,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0842966,
+      110.3321072
+    ]
+  },
+  {
+    "id": "KD151",
+    "kecamatan": "Mijen",
+    "kelurahan": "Tambangan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 11,
+    "keterpaparan": 2,
+    "kerentanan": 4,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0871512,
+      110.3134
+    ]
+  },
+  {
+    "id": "KD152",
+    "kecamatan": "Mijen",
+    "kelurahan": "Jatisari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 16,
+    "keterpaparan": 2,
+    "kerentanan": 6,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0646422,
+      110.3103103
+    ]
+  },
+  {
+    "id": "KD147",
+    "kecamatan": "Mijen",
+    "kelurahan": "Mijen",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 34,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0598231,
+      110.3239894
+    ]
+  },
+  {
+    "id": "KD156",
+    "kecamatan": "Mijen",
+    "kelurahan": "Jatibarang",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 4,
+    "keterpaparan": 1,
+    "kerentanan": 4,
+    "potensial_dampak": 1,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0559447,
+      110.3380463
+    ]
+  },
+  {
+    "id": "KD149",
+    "kecamatan": "Mijen",
+    "kelurahan": "Kedungpane",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 23,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0229999,
+      110.3347946
+    ]
+  },
+  {
+    "id": "KD155",
+    "kecamatan": "Mijen",
+    "kelurahan": "Pesantren",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 4,
+    "keterpaparan": 1,
+    "kerentanan": 1,
+    "potensial_dampak": 1,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0347004,
+      110.3240993
+    ]
+  },
+  {
+    "id": "KD148",
+    "kecamatan": "Mijen",
+    "kelurahan": "Ngadirgo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 20,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0371114,
+      110.3068645
+    ]
+  },
+  {
+    "id": "KD153",
+    "kecamatan": "Mijen",
+    "kelurahan": "Wonolopo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 30,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0613011,
+      110.3100549
+    ]
+  },
+  {
+    "id": "KD154",
+    "kecamatan": "Mijen",
+    "kelurahan": "Wonoplumbon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 11,
+    "keterpaparan": 2,
+    "kerentanan": 6,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0357791,
+      110.2844352
+    ]
+  },
+  {
+    "id": "KD131",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Gunungpati",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 19,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0911336,
+      110.3600755
+    ]
+  },
+  {
+    "id": "KD132",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Plalangan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 3,
+    "kerentanan": 2,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.094357,
+      110.3697464
+    ]
+  },
+  {
+    "id": "KD137",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Sumurrejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 4,
+    "keterpaparan": 1,
+    "kerentanan": 3,
+    "potensial_dampak": 1,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.1040171,
+      110.3863329
+    ]
+  },
+  {
+    "id": "KD133",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Pakintelan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 9,
+    "keterpaparan": 2,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0921943,
+      110.3966057
+    ]
+  },
+  {
+    "id": "KD138",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Mangunsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 9,
+    "keterpaparan": 2,
+    "kerentanan": 5,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0831745,
+      110.3868308
+    ]
+  },
+  {
+    "id": "KD145",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Patemon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 20,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0617343,
+      110.397829
+    ]
+  },
+  {
+    "id": "KD146",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Ngijo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 9,
+    "keterpaparan": 2,
+    "kerentanan": 6,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0741726,
+      110.3833345
+    ]
+  },
+  {
+    "id": "KD134",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Nongkosawit",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 4,
+    "keterpaparan": 1,
+    "kerentanan": 3,
+    "potensial_dampak": 1,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0653583,
+      110.3622095
+    ]
+  },
+  {
+    "id": "KD135",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Cepoko",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 3,
+    "keterpaparan": 1,
+    "kerentanan": 3,
+    "potensial_dampak": 1,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0745112,
+      110.3519763
+    ]
+  },
+  {
+    "id": "KD136",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Jatirejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 5,
+    "keterpaparan": 2,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0555237,
+      110.3452774
+    ]
+  },
+  {
+    "id": "KD140",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Kandri",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 0,
+    "keterpaparan": 1,
+    "kerentanan": 3,
+    "potensial_dampak": 1,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0568722,
+      110.3575922
+    ]
+  },
+  {
+    "id": "KD139",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Pongangan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0566099,
+      110.3636102
+    ]
+  },
+  {
+    "id": "KD144",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Kalisegoro",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 13,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0521716,
+      110.3796715
+    ]
+  },
+  {
+    "id": "KD142",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Sekaran",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 33,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0439743,
+      110.3957421
+    ]
+  },
+  {
+    "id": "KD143",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Sukorejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 43,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0323366,
+      110.3877249
+    ]
+  },
+  {
+    "id": "KD141",
+    "kecamatan": "Gunungpati",
+    "kelurahan": "Sadeng",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 23,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0379977,
+      110.3628592
+    ]
+  },
+  {
+    "id": "KD129",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Pudakpayung",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 52,
+    "keterpaparan": 3,
+    "kerentanan": 6,
+    "potensial_dampak": 4,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.09528,
+      110.4125004
+    ]
+  },
+  {
+    "id": "KD130",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Gedawang",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 18,
+    "keterpaparan": 2,
+    "kerentanan": 6,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0848774,
+      110.4265458
+    ]
+  },
+  {
+    "id": "KD125",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Jabungan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 8,
+    "keterpaparan": 2,
+    "kerentanan": 7,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0868816,
+      110.4526591
+    ]
+  },
+  {
+    "id": "KD123",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Padangsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 34,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0743492,
+      110.42932
+    ]
+  },
+  {
+    "id": "KD128",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Banyumanik",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 42,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0488245,
+      110.4137789
+    ]
+  },
+  {
+    "id": "KD127",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Srondol Wetan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 38,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sedang - Tinggi",
+    "warna": "#FF6600",
+    "koordinat": [
+      -7.0691277,
+      110.411955
+    ]
+  },
+  {
+    "id": "KD124",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Pedalangan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 31,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0627365,
+      110.4287629
+    ]
+  },
+  {
+    "id": "KD121",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Sumurboto",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 28,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0528954,
+      110.4237795
+    ]
+  },
+  {
+    "id": "KD126",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Srondol Kulon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 28,
+    "keterpaparan": 3,
+    "kerentanan": 6,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.04957,
+      110.4139653
+    ]
+  },
+  {
+    "id": "KD122",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Tinjomoyo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 33,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0253396,
+      110.4033277
+    ]
+  },
+  {
+    "id": "KD120",
+    "kecamatan": "Banyumanik",
+    "kelurahan": "Ngesrep",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 46,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.047573,
+      110.4202366
+    ]
+  },
+  {
+    "id": "KD75",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Sampangan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 23,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0099703,
+      110.3972442
+    ]
+  },
+  {
+    "id": "KD77",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Bendan Duwur",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 27,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0180422,
+      110.3988889
+    ]
+  },
+  {
+    "id": "KD82",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Karangrejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 18,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0731256,
+      110.4152155
+    ]
+  },
+  {
+    "id": "KD78",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Gajahmungkur",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 44,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0106356,
+      110.4020872
+    ]
+  },
+  {
+    "id": "KD76",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Bendan Ngisor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 13,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.010804,
+      110.3966203
+    ]
+  },
+  {
+    "id": "KD80",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Petompon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 17,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0016932,
+      110.404556
+    ]
+  },
+  {
+    "id": "KD81",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Bendungan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 6,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -7.0917544,
+      110.4162552
+    ]
+  },
+  {
+    "id": "KD79",
+    "kecamatan": "Gajahmungkur",
+    "kelurahan": "Lempongsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 13,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0010303,
+      110.4135618
+    ]
+  },
+  {
+    "id": "KD36",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Bulustalan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 5,
+    "kerentanan": 3,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9850813,
+      110.4046786
+    ]
+  },
+  {
+    "id": "KD35",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Barusari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 17,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9870418,
+      110.4057471
+    ]
+  },
+  {
+    "id": "KD40",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Randusari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 23,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0681001,
+      110.3664636
+    ]
+  },
+  {
+    "id": "KD39",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Mugasari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 12,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9902145,
+      110.4154127
+    ]
+  },
+  {
+    "id": "KD37",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Pleburan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 5,
+    "keterpaparan": 2,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9949234,
+      110.4241692
+    ]
+  },
+  {
+    "id": "KD38",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Wonodri",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 33,
+    "keterpaparan": 5,
+    "kerentanan": 3,
+    "potensial_dampak": 4,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0017936,
+      110.4250634
+    ]
+  },
+  {
+    "id": "KD44",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Peterongan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 20,
+    "keterpaparan": 5,
+    "kerentanan": 3,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0022596,
+      110.4348889
+    ]
+  },
+  {
+    "id": "KD42",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Lamper Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 7,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0057928,
+      110.4366081
+    ]
+  },
+  {
+    "id": "KD43",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Lamper Lor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 17,
+    "keterpaparan": 5,
+    "kerentanan": 3,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0057928,
+      110.4366081
+    ]
+  },
+  {
+    "id": "KD41",
+    "kecamatan": "Semarang Selatan",
+    "kelurahan": "Lamper Tengah",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 34,
+    "keterpaparan": 5,
+    "kerentanan": 4,
+    "potensial_dampak": 5,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.005916,
+      110.4479243
+    ]
+  },
+  {
+    "id": "KD70",
+    "kecamatan": "Candisari",
+    "kelurahan": "Jatingaleh",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 22,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0311994,
+      110.4218564
+    ]
+  },
+  {
+    "id": "KD68",
+    "kecamatan": "Candisari",
+    "kelurahan": "Karanganyar Gunung",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 27,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0179038,
+      110.4316817
+    ]
+  },
+  {
+    "id": "KD69",
+    "kecamatan": "Candisari",
+    "kelurahan": "Jomblang",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 63,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0096542,
+      110.4324727
+    ]
+  },
+  {
+    "id": "KD72",
+    "kecamatan": "Candisari",
+    "kelurahan": "Candi",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 37,
+    "keterpaparan": 6,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Rendah - Sedang",
+    "warna": "#FFFF99",
+    "koordinat": [
+      -7.0140978,
+      110.4293641
+    ]
+  },
+  {
+    "id": "KD73",
+    "kecamatan": "Candisari",
+    "kelurahan": "Kaliwiru",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 8,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0180445,
+      110.4227149
+    ]
+  },
+  {
+    "id": "KD71",
+    "kecamatan": "Candisari",
+    "kelurahan": "Wonotingal",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 22,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0113569,
+      110.4211992
+    ]
+  },
+  {
+    "id": "KD74",
+    "kecamatan": "Candisari",
+    "kelurahan": "Tegalsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 42,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.00475,
+      110.4272108
+    ]
+  },
+  {
+    "id": "KD115",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Rowosari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 59,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0671481,
+      110.4882
+    ]
+  },
+  {
+    "id": "KD116",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Meteseh",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 73,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0649496,
+      110.4615388
+    ]
+  },
+  {
+    "id": "KD117",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Kramas",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 16,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0638227,
+      110.4411826
+    ]
+  },
+  {
+    "id": "KD118",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Tembalang",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 13,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0523182,
+      110.4320437
+    ]
+  },
+  {
+    "id": "KD119",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Bulusan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0669409,
+      110.4476648
+    ]
+  },
+  {
+    "id": "KD114",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Mangunharjo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 36,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah - Sedang",
+    "warna": "#FFFF99",
+    "koordinat": [
+      -7.0470729,
+      110.4463181
+    ]
+  },
+  {
+    "id": "KD112",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Sendangmulyo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 125,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0391953,
+      110.4748522
+    ]
+  },
+  {
+    "id": "KD113",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Sambiroto",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 56,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0353721,
+      110.4556924
+    ]
+  },
+  {
+    "id": "KD110",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Jangli",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 19,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0310541,
+      110.4280456
+    ]
+  },
+  {
+    "id": "KD109",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Tandang",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 92,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0182611,
+      110.4413533
+    ]
+  },
+  {
+    "id": "KD108",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Kedungmundu",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 48,
+    "keterpaparan": 5,
+    "kerentanan": 4,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0289324,
+      110.4585001
+    ]
+  },
+  {
+    "id": "KD111",
+    "kecamatan": "Tembalang",
+    "kelurahan": "Sendangguwo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 87,
+    "keterpaparan": 6,
+    "kerentanan": 4,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0123014,
+      110.4541445
+    ]
+  },
+  {
+    "id": "KD97",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Gemah",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 57,
+    "keterpaparan": 5,
+    "kerentanan": 3,
+    "potensial_dampak": 4,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0111795,
+      110.466521
+    ]
+  },
+  {
+    "id": "KD106",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Pedurungan Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 69,
+    "keterpaparan": 6,
+    "kerentanan": 3,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0260219,
+      110.479091
+    ]
+  },
+  {
+    "id": "KD105",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Plamongansari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 36,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah - Sedang",
+    "warna": "#FFFF99",
+    "koordinat": [
+      -7.0241153,
+      110.4860168
+    ]
+  },
+  {
+    "id": "KD107",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Penggaron Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 34,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -7.0096327,
+      110.4949884
+    ]
+  },
+  {
+    "id": "KD104",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Pedurungan Lor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 28,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0098006,
+      110.4842686
+    ]
+  },
+  {
+    "id": "KD101",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Tlogomulyo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 52,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9942871,
+      110.4810905
+    ]
+  },
+  {
+    "id": "KD103",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Pedurungan Tengah",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 56,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0037287,
+      110.4711955
+    ]
+  },
+  {
+    "id": "KD102",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Palebon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 52,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0043041,
+      110.4658513
+    ]
+  },
+  {
+    "id": "KD98",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Kalicari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 25,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.99739,
+      110.4630699
+    ]
+  },
+  {
+    "id": "KD96",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Tlogosari Kulon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 98,
+    "keterpaparan": 5,
+    "kerentanan": 4,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9897915,
+      110.4583289
+    ]
+  },
+  {
+    "id": "KD100",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Tlogosari Wetan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 34,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -6.9923958,
+      110.4688728
+    ]
+  },
+  {
+    "id": "KD99",
+    "kecamatan": "Pedurungan",
+    "kelurahan": "Muktiharjo Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 107,
+    "keterpaparan": 5,
+    "kerentanan": 6,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9782329,
+      110.4585277
+    ]
+  },
+  {
+    "id": "KD86",
+    "kecamatan": "Genuk",
+    "kelurahan": "Muktiharjo Lor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 20,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9664734,
+      110.4589402
+    ]
+  },
+  {
+    "id": "KD89",
+    "kecamatan": "Genuk",
+    "kelurahan": "Gebangsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 21,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9647672,
+      110.4664349
+    ]
+  },
+  {
+    "id": "KD83",
+    "kecamatan": "Genuk",
+    "kelurahan": "Genuksari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 55,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.954273,
+      110.477609
+    ]
+  },
+  {
+    "id": "KD90",
+    "kecamatan": "Genuk",
+    "kelurahan": "Bangetayu Kulon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 56,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9766854,
+      110.4739119
+    ]
+  },
+  {
+    "id": "KD91",
+    "kecamatan": "Genuk",
+    "kelurahan": "Bangetayu Wetan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 50,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9860607,
+      110.4859453
+    ]
+  },
+  {
+    "id": "KD92",
+    "kecamatan": "Genuk",
+    "kelurahan": "Sembungharjo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 54,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9863647,
+      110.4905761
+    ]
+  },
+  {
+    "id": "KD93",
+    "kecamatan": "Genuk",
+    "kelurahan": "Penggaron Lor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 19,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9867956,
+      110.4986997
+    ]
+  },
+  {
+    "id": "KD94",
+    "kecamatan": "Genuk",
+    "kelurahan": "Kudu",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 28,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9654242,
+      110.4990114
+    ]
+  },
+  {
+    "id": "KD95",
+    "kecamatan": "Genuk",
+    "kelurahan": "Karangroto",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 45,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9639133,
+      110.4932987
+    ]
+  },
+  {
+    "id": "KD84",
+    "kecamatan": "Genuk",
+    "kelurahan": "Banjardowo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 40,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sedang - Tinggi",
+    "warna": "#FF6600",
+    "koordinat": [
+      -6.9600108,
+      110.4839651
+    ]
+  },
+  {
+    "id": "KD85",
+    "kecamatan": "Genuk",
+    "kelurahan": "Trimulyo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 10,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.949431,
+      110.4789755
+    ]
+  },
+  {
+    "id": "KD88",
+    "kecamatan": "Genuk",
+    "kelurahan": "Terboyo Wetan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 4,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.944607,
+      110.457526
+    ]
+  },
+  {
+    "id": "KD87",
+    "kecamatan": "Genuk",
+    "kelurahan": "Terboyo Kulon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 2,
+    "keterpaparan": 3,
+    "kerentanan": 6,
+    "potensial_dampak": 4,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9464973,
+      110.4481077
+    ]
+  },
+  {
+    "id": "KD67",
+    "kecamatan": "Gayamsari",
+    "kelurahan": "Pandean Lamper",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 39,
+    "keterpaparan": 5,
+    "kerentanan": 4,
+    "potensial_dampak": 5,
+    "zona": "Sedang - Tinggi",
+    "warna": "#FF6600",
+    "koordinat": [
+      -6.992103,
+      110.4453088
+    ]
+  },
+  {
+    "id": "KD61",
+    "kecamatan": "Gayamsari",
+    "kelurahan": "Gayamsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 37,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Rendah - Sedang",
+    "warna": "#FFFF99",
+    "koordinat": [
+      -7.0021164,
+      110.4488215
+    ]
+  },
+  {
+    "id": "KD62",
+    "kecamatan": "Gayamsari",
+    "kelurahan": "Siwalan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 22,
+    "keterpaparan": 5,
+    "kerentanan": 6,
+    "potensial_dampak": 6,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9963062,
+      110.4306218
+    ]
+  },
+  {
+    "id": "KD66",
+    "kecamatan": "Gayamsari",
+    "kelurahan": "Sambirejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 20,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9865509,
+      110.4421391
+    ]
+  },
+  {
+    "id": "KD65",
+    "kecamatan": "Gayamsari",
+    "kelurahan": "Sawah Besar",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 38,
+    "keterpaparan": 6,
+    "kerentanan": 4,
+    "potensial_dampak": 6,
+    "zona": "Sedang - Tinggi",
+    "warna": "#FF6600",
+    "koordinat": [
+      -6.9626207,
+      110.4464626
+    ]
+  },
+  {
+    "id": "KD64",
+    "kecamatan": "Gayamsari",
+    "kelurahan": "Kaligawe",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 39,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sedang - Tinggi",
+    "warna": "#FF6600",
+    "koordinat": [
+      -6.9582955,
+      110.446661
+    ]
+  },
+  {
+    "id": "KD63",
+    "kecamatan": "Gayamsari",
+    "kelurahan": "Tambakrejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 35,
+    "keterpaparan": 5,
+    "kerentanan": 7,
+    "potensial_dampak": 7,
+    "zona": "Rendah - Sedang",
+    "warna": "#FFFF99",
+    "koordinat": [
+      -6.9544414,
+      110.4461213
+    ]
+  },
+  {
+    "id": "KD26",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Karang turi",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 13,
+    "keterpaparan": 6,
+    "kerentanan": 2,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9886036,
+      110.4322036
+    ]
+  },
+  {
+    "id": "KD25",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Karang tempel",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 10,
+    "keterpaparan": 3,
+    "kerentanan": 1,
+    "potensial_dampak": 1,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9902665,
+      110.4339352
+    ]
+  },
+  {
+    "id": "KD27",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Rejosari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 50,
+    "keterpaparan": 6,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0756809,
+      110.3812051
+    ]
+  },
+  {
+    "id": "KD28",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Sarirejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 18,
+    "keterpaparan": 5,
+    "kerentanan": 6,
+    "potensial_dampak": 6,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9804672,
+      110.4332717
+    ]
+  },
+  {
+    "id": "KD30",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Kebonagung",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 24,
+    "keterpaparan": 7,
+    "kerentanan": 4,
+    "potensial_dampak": 7,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9730845,
+      110.4327419
+    ]
+  },
+  {
+    "id": "KD29",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Bugangan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 29,
+    "keterpaparan": 6,
+    "kerentanan": 4,
+    "potensial_dampak": 6,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9756206,
+      110.4361568
+    ]
+  },
+  {
+    "id": "KD31",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Mlatiharjo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 25,
+    "keterpaparan": 6,
+    "kerentanan": 4,
+    "potensial_dampak": 6,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9646062,
+      110.4381912
+    ]
+  },
+  {
+    "id": "KD34",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Mlatibaru",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 14,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9644423,
+      110.4383825
+    ]
+  },
+  {
+    "id": "KD32",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Rejomulyo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 14,
+    "keterpaparan": 5,
+    "kerentanan": 6,
+    "potensial_dampak": 6,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0153896,
+      110.3341703
+    ]
+  },
+  {
+    "id": "KD33",
+    "kecamatan": "Semarang Timur",
+    "kelurahan": "Kemijen",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 61,
+    "keterpaparan": 6,
+    "kerentanan": 6,
+    "potensial_dampak": 7,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9568825,
+      110.4408477
+    ]
+  },
+  {
+    "id": "KD20",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Bulu Lor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 32,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -6.9727221,
+      110.4051301
+    ]
+  },
+  {
+    "id": "KD23",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Plombokan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 24,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9712842,
+      110.4097498
+    ]
+  },
+  {
+    "id": "KD21",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Panggung Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 19,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9657683,
+      110.4063427
+    ]
+  },
+  {
+    "id": "KD24",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Panggung Lor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 29,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9596507,
+      110.408907
+    ]
+  },
+  {
+    "id": "KD18",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Kuningan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 47,
+    "keterpaparan": 6,
+    "kerentanan": 6,
+    "potensial_dampak": 7,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9629141,
+      110.4157734
+    ]
+  },
+  {
+    "id": "KD22",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Purwosari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 24,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.0793244,
+      110.3305461
+    ]
+  },
+  {
+    "id": "KD19",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Dadapsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 40,
+    "keterpaparan": 7,
+    "kerentanan": 4,
+    "potensial_dampak": 7,
+    "zona": "Sedang - Tinggi",
+    "warna": "#FF6600",
+    "koordinat": [
+      -6.966981,
+      110.4199844
+    ]
+  },
+  {
+    "id": "KD16",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Bandarharjo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 62,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9583454,
+      110.4189277
+    ]
+  },
+  {
+    "id": "KD17",
+    "kecamatan": "Semarang Utara",
+    "kelurahan": "Tanjung Mas",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 98,
+    "keterpaparan": 5,
+    "kerentanan": 6,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9543652,
+      110.4015227
+    ]
+  },
+  {
+    "id": "KD15",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Pekunden",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 5,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.986626,
+      110.421152
+    ]
+  },
+  {
+    "id": "KD14",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Karang Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 5,
+    "kerentanan": 2,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0029687,
+      110.3171941
+    ]
+  },
+  {
+    "id": "KD12",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Jagalan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 10,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9798989,
+      110.4302535
+    ]
+  },
+  {
+    "id": "KD11",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Brumbungan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 6,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9832479,
+      110.4254007
+    ]
+  },
+  {
+    "id": "KD10",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Miroto",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 13,
+    "keterpaparan": 5,
+    "kerentanan": 4,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9830523,
+      110.4183898
+    ]
+  },
+  {
+    "id": "KD13",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Gabahan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 19,
+    "keterpaparan": 6,
+    "kerentanan": 2,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9800999,
+      110.4257261
+    ]
+  },
+  {
+    "id": "KD06",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Kranggan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 9,
+    "keterpaparan": 4,
+    "kerentanan": 1,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9769655,
+      110.4257281
+    ]
+  },
+  {
+    "id": "KD04",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Purwodinatan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 19,
+    "keterpaparan": 6,
+    "kerentanan": 2,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9708477,
+      110.4283112
+    ]
+  },
+  {
+    "id": "KD03",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Kauman",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 6,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9722944,
+      110.4246547
+    ]
+  },
+  {
+    "id": "KD02",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Bangunharjo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 6,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9757308,
+      110.4215823
+    ]
+  },
+  {
+    "id": "KD07",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Kembangsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 6,
+    "kerentanan": 3,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9781179,
+      110.4187677
+    ]
+  },
+  {
+    "id": "KD01",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Pandansari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 7,
+    "keterpaparan": 4,
+    "kerentanan": 4,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9736601,
+      110.4177099
+    ]
+  },
+  {
+    "id": "KD09",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Sekayu",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 6,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9797244,
+      110.4141141
+    ]
+  },
+  {
+    "id": "KD08",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Pendrikan Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 2,
+    "keterpaparan": 2,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9816004,
+      110.4067408
+    ]
+  },
+  {
+    "id": "KD05",
+    "kecamatan": "Semarang Tengah",
+    "kelurahan": "Pendrikan Lor",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 17,
+    "keterpaparan": 5,
+    "kerentanan": 6,
+    "potensial_dampak": 6,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9779169,
+      110.4066229
+    ]
+  },
+  {
+    "id": "KD55",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Kembangarum",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 61,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0044403,
+      110.3795609
+    ]
+  },
+  {
+    "id": "KD53",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Manyaran",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 50,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9993633,
+      110.3889276
+    ]
+  },
+  {
+    "id": "KD59",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Ngemplak Simongan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 42,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0045645,
+      110.3912719
+    ]
+  },
+  {
+    "id": "KD60",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Bongsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 32,
+    "keterpaparan": 5,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -6.9884139,
+      110.3923552
+    ]
+  },
+  {
+    "id": "KD48",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Bojongsalaman",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 18,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9867949,
+      110.3995645
+    ]
+  },
+  {
+    "id": "KD47",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Cabean",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 8,
+    "keterpaparan": 5,
+    "kerentanan": 3,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9824107,
+      110.3989774
+    ]
+  },
+  {
+    "id": "KD46",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Salamanmloyo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 7,
+    "keterpaparan": 3,
+    "kerentanan": 2,
+    "potensial_dampak": 2,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9839271,
+      110.3909043
+    ]
+  },
+  {
+    "id": "KD52",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Gisikdrono",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 61,
+    "keterpaparan": 5,
+    "kerentanan": 7,
+    "potensial_dampak": 7,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9955243,
+      110.3908847
+    ]
+  },
+  {
+    "id": "KD50",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Kalibanteng Kidul",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 9,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9867716,
+      110.3835342
+    ]
+  },
+  {
+    "id": "KD49",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Kalibanteng Kulon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 34,
+    "keterpaparan": 6,
+    "kerentanan": 4,
+    "potensial_dampak": 6,
+    "zona": "Tinggi",
+    "warna": "#FF9900",
+    "koordinat": [
+      -6.9919342,
+      110.379203
+    ]
+  },
+  {
+    "id": "KD54",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Krapyak",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 17,
+    "keterpaparan": 4,
+    "kerentanan": 3,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.989928,
+      110.3688537
+    ]
+  },
+  {
+    "id": "KD51",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Tambakharjo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 13,
+    "keterpaparan": 4,
+    "kerentanan": 5,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9804752,
+      110.3667414
+    ]
+  },
+  {
+    "id": "KD58",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Tawangsari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 22,
+    "keterpaparan": 3,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9712743,
+      110.3884033
+    ]
+  },
+  {
+    "id": "KD45",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Karangayu",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 22,
+    "keterpaparan": 5,
+    "kerentanan": 4,
+    "potensial_dampak": 5,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9773896,
+      110.3928513
+    ]
+  },
+  {
+    "id": "KD56",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Krobokan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 56,
+    "keterpaparan": 6,
+    "kerentanan": 5,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9762503,
+      110.3983189
+    ]
+  },
+  {
+    "id": "KD57",
+    "kecamatan": "Semarang Barat",
+    "kelurahan": "Tawangmas",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 17,
+    "keterpaparan": 3,
+    "kerentanan": 4,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9730402,
+      110.3937951
+    ]
+  },
+  {
+    "id": "KD175",
+    "kecamatan": "Tugu",
+    "kelurahan": "Jerakah",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 6,
+    "keterpaparan": 2,
+    "kerentanan": 3,
+    "potensial_dampak": 2,
+    "zona": "Tidak Ada Kasus",
+    "warna": "#CCCCCC",
+    "koordinat": [
+      -6.9740425,
+      110.363962
+    ]
+  },
+  {
+    "id": "KD174",
+    "kecamatan": "Tugu",
+    "kelurahan": "Tugurejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 21,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9674642,
+      110.3542801
+    ]
+  },
+  {
+    "id": "KD176",
+    "kecamatan": "Tugu",
+    "kelurahan": "Karanganyar",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 16,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9681751,
+      110.3409863
+    ]
+  },
+  {
+    "id": "KD177",
+    "kecamatan": "Tugu",
+    "kelurahan": "Randugarut",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 7,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9725431,
+      110.3197684
+    ]
+  },
+  {
+    "id": "KD172",
+    "kecamatan": "Tugu",
+    "kelurahan": "Mangkang Wetan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 25,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9703748,
+      110.3086622
+    ]
+  },
+  {
+    "id": "KD173",
+    "kecamatan": "Tugu",
+    "kelurahan": "Mangunharjo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 22,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -6.9624082,
+      110.3106918
+    ]
+  },
+  {
+    "id": "KD171",
+    "kecamatan": "Tugu",
+    "kelurahan": "Mangkang Kulon",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 4,
+    "kerentanan": 6,
+    "potensial_dampak": 5,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9671408,
+      110.2983197
+    ]
+  },
+  {
+    "id": "KD170",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Podorejo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 2,
+    "kerentanan": 5,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0032109,
+      110.2933167
+    ]
+  },
+  {
+    "id": "KD167",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Wates",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 15,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0106091,
+      110.3161147
+    ]
+  },
+  {
+    "id": "KD168",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Beringin",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 24,
+    "keterpaparan": 2,
+    "kerentanan": 5,
+    "potensial_dampak": 3,
+    "zona": "Rendah",
+    "warna": "#99FF99",
+    "koordinat": [
+      -7.009875,
+      110.3295062
+    ]
+  },
+  {
+    "id": "KD165",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Ngaliyan",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 38,
+    "keterpaparan": 3,
+    "kerentanan": 6,
+    "potensial_dampak": 4,
+    "zona": "Sedang - Tinggi",
+    "warna": "#FF6600",
+    "koordinat": [
+      -7.0079829,
+      110.3486514
+    ]
+  },
+  {
+    "id": "KD166",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Bambankerep",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 19,
+    "keterpaparan": 3,
+    "kerentanan": 5,
+    "potensial_dampak": 4,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -7.0105106,
+      110.3643861
+    ]
+  },
+  {
+    "id": "KD164",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Kalipancur",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 53,
+    "keterpaparan": 4,
+    "kerentanan": 7,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -7.0115382,
+      110.3769619
+    ]
+  },
+  {
+    "id": "KD163",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Purwoyoso",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 56,
+    "keterpaparan": 4,
+    "kerentanan": 7,
+    "potensial_dampak": 6,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9951337,
+      110.3606756
+    ]
+  },
+  {
+    "id": "KD161",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Tambakaji",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 56,
+    "keterpaparan": 3,
+    "kerentanan": 7,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9890088,
+      110.3371948
+    ]
+  },
+  {
+    "id": "KD169",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Gondoriyo",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 14,
+    "keterpaparan": 2,
+    "kerentanan": 6,
+    "potensial_dampak": 3,
+    "zona": "Sangat Rendah",
+    "warna": "#00CCFF",
+    "koordinat": [
+      -6.9933394,
+      110.3131623
+    ]
+  },
+  {
+    "id": "KD162",
+    "kecamatan": "Ngaliyan",
+    "kelurahan": "Wonosari",
+    "tahun": 2025,
+    "jenisRisiko": "TBC",
+    "kasus": 54,
+    "keterpaparan": 3,
+    "kerentanan": 7,
+    "potensial_dampak": 5,
+    "zona": "Sangat Tinggi",
+    "warna": "#FF0000",
+    "koordinat": [
+      -6.9808905,
+      110.3174869
+    ]
+  }
+]
