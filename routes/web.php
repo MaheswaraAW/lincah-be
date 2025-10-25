@@ -1,25 +1,35 @@
 <?php
 
-use App\Http\Controllers\AuditController;
+// use App\Http\Controllers\AuditController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\authentications\LoginBasic;
-use App\Http\Controllers\authentications\LoginCover;
-use App\Http\Controllers\authentications\RegisterBasic;
-use App\Http\Controllers\authentications\RegisterCover;
-use App\Http\Controllers\authentications\RegisterMultiSteps;
-use App\Http\Controllers\authentications\VerifyEmailBasic;
-use App\Http\Controllers\authentications\VerifyEmailCover;
-use App\Http\Controllers\authentications\ResetPasswordBasic;
-use App\Http\Controllers\authentications\ResetPasswordCover;
-use App\Http\Controllers\authentications\ForgotPasswordBasic;
-use App\Http\Controllers\authentications\ForgotPasswordCover;
-use App\Http\Controllers\authentications\TwoStepsBasic;
-use App\Http\Controllers\authentications\TwoStepsCover;
-use App\Http\Controllers\DashboardController;
-use App\Http\Controllers\UserController;
+// use App\Http\Controllers\authentications\LoginBasic;
+// use App\Http\Controllers\authentications\LoginCover;
+// use App\Http\Controllers\authentications\RegisterBasic;
+// use App\Http\Controllers\authentications\RegisterCover;
+// use App\Http\Controllers\authentications\RegisterMultiSteps;
+// use App\Http\Controllers\authentications\VerifyEmailBasic;
+// use App\Http\Controllers\authentications\VerifyEmailCover;
+// use App\Http\Controllers\authentications\ResetPasswordBasic;
+// use App\Http\Controllers\authentications\ResetPasswordCover;
+// use App\Http\Controllers\authentications\ForgotPasswordBasic;
+// use App\Http\Controllers\authentications\ForgotPasswordCover;
+// use App\Http\Controllers\authentications\TwoStepsBasic;
+// use App\Http\Controllers\authentications\TwoStepsCover;
+// use App\Http\Controllers\DashboardController;
+// use App\Http\Controllers\UserController;
+use App\Http\Controllers\FrontendController;
 // Main Page Route
 
-Route::get('/', [LoginBasic::class, 'index'])->name('index');
+// Route::domain('lincah.dinkes.semarangkota.go.id')->group(function () {
+//     Route::any('{any?}', function () {
+//         $target = 'https://lincah.dinkes.semarangkota.go.id';
+//         // getRequestUri sudah mencakup path + query string
+//         $uri = request()->getRequestUri();
+//         return redirect()->away($target.$uri, 301);
+//     })->where('any', '.*');
+// });
+
+Route::get('/', [FrontendController::class, 'index'])->name('index');
   
 
 // Route::middleware('guest')->group(function () {
