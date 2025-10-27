@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\FrontendController;
 // Main Page Route
 
-// Route::domain('lincah.dinkes.semarangkota.go.id')->group(function () {
+// Route::domain('akunlincah.dinkes.semarangkota.go.id')->group(function () {
 //     Route::any('{any?}', function () {
 //         $target = 'https://lincah.dinkes.semarangkota.go.id';
 //         // getRequestUri sudah mencakup path + query string
@@ -30,7 +30,12 @@ use App\Http\Controllers\FrontendController;
 // });
 
 Route::get('/', [FrontendController::class, 'index'])->name('index');
-  
+Route::get('/data', [FrontendController::class, 'data'])->name('data');
+Route::get('/forum', [FrontendController::class, 'forum'])->name('forum');
+Route::get('/publikasi', [FrontendController::class, 'publikasi'])->name('publikasi');
+Route::get('/blog', [FrontendController::class, 'blog'])->name('blog');
+Route::get('/tentang', [FrontendController::class, 'tentang'])->name('tentang');
+// Route::get('/login', [FrontendController::class, 'index'])->name('index');
 
 // Route::middleware('guest')->group(function () {
 //   Route::get('/login', [LoginBasic::class, 'index'])->name('login');
